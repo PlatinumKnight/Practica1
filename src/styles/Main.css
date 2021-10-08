@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: auto;
+  overflow: visible;
+}
+
+.color {
+  background-color: #062385;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 25px;
+  height: 4rem;
+}
+
+.Footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  height: 5rem;
+  margin-top: 10.4rem;
+}
+
+.Img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.list1 {
+  color: black;
+  text-align: center;
+}
+
+.list2 {
+  font-size: 20px;
+}
+
+.boton {
+  color: white;
+  font-size: 15px;
+  margin: 0 auto;
+  display: block;
+  background-color: blue;
+  width: 4rem;
+  height: 2rem;
+  transform: translateY(5rem);
+}
